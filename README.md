@@ -59,7 +59,6 @@ The assignment consists of the following tasks:
 - Tesla Stock and Revenue Graph  
 - GameStop Stock and Revenue Graph  
 
-<img width="1920" height="836" alt="Tesla graph" src="https://github.com/user-attachments/assets/57edb21d-d7f3-464e-8689-645a219aafd7" />
 
 ---
 
